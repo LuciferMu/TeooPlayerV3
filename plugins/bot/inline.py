@@ -31,11 +31,11 @@ buttons = [
                 InlineKeyboardButton("❔ HOW TO USE ME ❔", callback_data="help"),
             ],
             [
-                InlineKeyboardButton("CHANNEL", url="https://t.me/AsmSafone"),
-                InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
+                InlineKeyboardButton("- قناة البوت .", url="https://t.me/itsTat"),
+                InlineKeyboardButton("- للمساعدة .", url="https://t.me/aiiaa"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayerV3"),
+                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/LuciferMu/TeooPlayerV3"),
             ]
          ]
 
